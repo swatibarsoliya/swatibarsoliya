@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @swatibarsoliya
- I'm a Front-End Software Engineer by passion and an expat by choice living now in Ahmedabad, India.and have been passionate about open-source since. I'm always working on a new project to help the community.
+- 👋 Hi, I’m @swatibarsoliya  
+I'm a Front-End Software Engineer driven by passion and currently based in the UK. Originally from India, I’m a strong advocate for open-source development and love building projects that contribute to the tech community. I’m always exploring new ideas, technologies, and collaborations to make a meaningful impact.
+
